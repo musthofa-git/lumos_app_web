@@ -50,7 +50,10 @@ untuk logika perhitungannya, dapat dilihat pada file Hitung Estimasi dalam folde
 Gambar diatas merupakan Halaman Download. Pada halaman ini Admin maupun petugas dapat melihat rekapan data lampu yang ada, dan dapat mendownloadnya dalam bentuk format file PDF untuk kepentingan pelaporan kinerja sekaligus untuk bahan evaluasi dan pertimbangan pada rapat anggaran tahunan untuk menentukan jumlah dan merk lampu yang dibutuhkan dalam kurun waktu 1 tahun.
 
 
-**Note :
+
+
+
+#**Note :
 1. Belum terintegrasi dengan BE dan Database, hanya FE interaktif.
 2. Calculate Page sudah bisa digunakan karena tidak memerlukan koneksi ke BE dan database. Karena data yang diinputkan bersifat sementara dan perhitungan dilakukan langsung di FE.
 
