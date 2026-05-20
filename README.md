@@ -53,7 +53,7 @@ Gambar diatas merupakan Halaman Download. Pada halaman ini Admin maupun petugas 
 
 
 
-#**Note :
+# **Note :
 1. Belum terintegrasi dengan BE dan Database, hanya FE interaktif.
 2. Calculate Page sudah bisa digunakan karena tidak memerlukan koneksi ke BE dan database. Karena data yang diinputkan bersifat sementara dan perhitungan dilakukan langsung di FE.
 
